@@ -11,15 +11,4 @@ https://github.com/jhipster/jhipster-sample-app
 * Good for JWT
 * Good for authentication
 * Good for RestAPI
-### IReviewMovies
-https://github.com/UQ-Summer-Coding/ireviewmovies
 
-* Good for seeing how testing is done
-* Good for seeing how migration with FlyWay works
-## Development
-
-
-
-### Testing
-
-## Building for production
